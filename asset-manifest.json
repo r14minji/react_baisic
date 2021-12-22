@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_baisic/static/css/main.6f5b273b.css",
+    "main.js": "/react_baisic/static/js/main.b315955d.js",
+    "index.html": "/react_baisic/index.html",
+    "main.6f5b273b.css.map": "/react_baisic/static/css/main.6f5b273b.css.map",
+    "main.b315955d.js.map": "/react_baisic/static/js/main.b315955d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5b273b.css",
+    "static/js/main.b315955d.js"
+  ]
+}
